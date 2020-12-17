@@ -11,7 +11,8 @@ Hi, I'm Bipin Kalra, a Full Stack Developer and UI/UX enthusiast 🚀 from India
 
 <br/>
 
-  <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif" />
+  <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/17/21/57/172157fc5b544f12ba1120cf6e22f9e3.gif" />
+  <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" />
 
 **Talking about Personal Stuff:**
 
