@@ -11,11 +11,9 @@
 </a> -->
 
 <br />
-<br />
 
 Hi, I'm Bipin Kalra, a Full Stack Developer and UI/UX enthusiast 🚀 from India. Currently, I'm a Product Engineer and Mentor at 🙍🏽‍♂️ [@coding-blocks](https://www.online.codingblocks.com/). I'm an sucker for good aesthetics and have a keen eye for walking the tightrope between design and development while continuously seeking challenging work on new products. Documenting my code to the very brim is my guilty pleasure for sure! :) Beside's straining my eyes in front of a screen, I love to paint, play guitar, cook and party hard! (No pun intended) :')
 
-<br/>
 <br/>
 
   <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/0b/13/d4/0b13d4853679e37ec02d9289377fc109.gif" />
