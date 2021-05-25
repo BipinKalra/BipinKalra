@@ -7,7 +7,11 @@
 <br />
 <br />
 
-Hi, I'm Bipin Kalra, a Full Stack Developer and UI/UX enthusiast 🚀 from India. Currently, I'm a Product Engineer and Mentor at 🙍🏽‍♂️ [@coding-blocks](https://www.online.codingblocks.com/). I'm an sucker for good aesthetics and have a keen eye for walking the tightrope between design and development while continuously seeking challenging work on new products. Documenting my code to the very brim is my guilty pleasure for sure! :) Beside's straining my eyes in front of a screen, I love to paint, play guitar, cook and party hard! (No pun intended) :')
+Hi, I'm Bipin Kalra, a Full Stack Web Developer and UI/UX enthusiast 🚀 from India. Currently, I'm working as a Software Developer at 🙍🏽‍♂️ [@spinnytech](https://www.spinny.com/). I'm an sucker for good aesthetics and have a keen eye for walking the tightrope between design and development while continuously seeking challenging work on new products. Documenting my code to the very brim is my guilty pleasure for sure! :)
+
+I love to work for ideas and products that I use personally as I believe in the fact that a consumer's insights and requirements are paramount in the development of any successful product. This approach, thus enables me to channel my chain of thought well enough to help synergize myself and my teammates towards a common goal.
+
+Skewing away from the deliverables governed by my job, I love to explore all things tech in my free time. Furthermore, as reflected by my past experience, I love to take up teaching responsibilities. Other than tech, get in touch to have a chat about Writing, Painting, Finance/Investing, Music, Basketball, Cooking or Concerts.
 
 <br/>
 
